@@ -46,10 +46,10 @@ Simple & Effective: Uses Logistic Regression, a powerful and lightweight algorit
 ---
 
 🔹 Page 1- Spam Detection Interface
-🔗 Live Demo & Video Explanation
-[LiveDemo] https://spamclassifier-logisticregression-yashbhong.streamlit.app/
+ 
+🔗 [LiveDemo] https://spamclassifier-logisticregression-yashbhong.streamlit.app/
 
-[VideoExplanation code] https://youtu.be/yBt7x_Ylkfs?si=Fqb8B5dzyfnIgZG0
+🔗 [VideoExplanation code] https://youtu.be/yBt7x_Ylkfs?si=Fqb8B5dzyfnIgZG0
 ---
 
 📧 How to Use

@@ -11,8 +11,8 @@ This repository contains a machine learning project for classifying SMS messages
 ├── requirements.txt     # Required dependencies
 └── README.md            # Project documentation
 
- Interface https://github.com/bhongyash111-coder/Spam_Classifier_logistic_Regression_YashBhong/blob/main/spam.png
-
+ ### 🔹 Page  - Interface  
+![Homepage](https://github.com/bhongyash111-coder/Spam_Classifier_logistic_Regression_YashBhong/blob/main/spam.png)
 ✨ Features
 Real-time Prediction: Classify SMS messages as spam or ham instantly through a user-friendly interface.
 
@@ -23,9 +23,9 @@ Simple & Effective: Uses Logistic Regression, a powerful and lightweight algorit
 🚀 Tech Stack
 🔹 Page 1- Spam Detection Interface
 🔗 Live Demo & Video Explanation
-🔗Live Demo: https://spamclassifier-logisticregression-yashbhong.streamlit.app/
+![LiveDemo](https://spamclassifier-logisticregression-yashbhong.streamlit.app/)
 
-🔗Video Explanation: https://www.youtube.com/watch?v=yBt7x_Ylkfs
+![VideoExplanation code](https://youtu.be/yBt7x_Ylkfs?si=Fqb8B5dzyfnIgZG0)
 
 📧 How to Use
 Enter an SMS message into the text box.

@@ -3,17 +3,15 @@ Spam Classifier - Logistic Regression
 This repository contains a machine learning project for classifying SMS messages as either "spam" or "ham" (not spam) using a Logistic Regression model. The project includes data cleaning, exploratory data analysis, and model deployment on a web application.
 
 📁 Repository Structure
-spamapp.py: The Streamlit web application script.
+├── spamapp.py           # Streamlit web app
+├── detection.ipynb      # Data cleaning, EDA, and model training
+├── mail_data.csv        # Dataset used
+├── model.joblib         # Trained Logistic Regression model
+├── vect.joblib          # Trained TfidfVectorizer
+├── requirements.txt     # Required dependencies
+└── README.md            # Project documentation
 
-detection.ipynb: Jupyter notebook containing the code for data cleaning, EDA, and model training.
-
-mail_data.csv: The dataset used for training the model.
-
-model.pkl: The trained Logistic Regression model.
-
-vect.joblib: The trained TfidfVectorizer object used to convert text to numerical features.
-
-requirements.txt: Python dependencies required to run the application.
+ Interface https://github.com/bhongyash111-coder/Spam_Classifier_logistic_Regression_YashBhong/blob/main/spam.png
 
 ✨ Features
 Real-time Prediction: Classify SMS messages as spam or ham instantly through a user-friendly interface.

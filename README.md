@@ -10,7 +10,7 @@ This repository contains a machine learning project for classifying SMS messages
 # Dataset used
 # Trained Logistic Regression model
 # Trained TfidfVectorizer
-# Required dependencies     
+ # Required dependencies     
 # Project documentation
 
 ---

@@ -1,32 +1,29 @@
-# Spam_Classifier_logistic_Regression_Yash Bhong
-Spam Classifier - Logistic Regression
-This repository contains a machine learning project for classifying SMS messages as either "spam" or "ham" (not spam) using a Logistic Regression model. The project includes data cleaning, exploratory data analysis, and model deployment on a web application.
+<h1 align="center">📧 Spam Classifier - Logistic Regression</h1>
+
+<p align="center">
+  <b>A Machine Learning project that classifies SMS messages as <span style="color:red;">Spam</span> or <span style="color:green;">Ham</span></b><br>
+  Built with <code>Python</code>, <code>Scikit-learn</code>, and <code>Streamlit</code>.
+</p>
 
 ---
 
-📁 Repository Structure
-# Streamlit web app
-# Data cleaning, EDA, and model training
-# Dataset used
-# Trained Logistic Regression model
-# Trained TfidfVectorizer
- # Required dependencies     
-# Project documentation
+## 🌟 Project Purpose
+The goal of this project is to build a lightweight, fast, and effective **Spam Detection System**.  
+It uses **Logistic Regression** trained on an SMS dataset, combined with **TF-IDF vectorization**, to detect whether a message is **spam** or **not spam (ham)**.  
 
 ---
 
- ### 🔹 Page  - Interface  
-![Homepage](https://github.com/bhongyash111-coder/Spam_Classifier_logistic_Regression_YashBhong/blob/main/spam.png)
-✨ Features
-Real-time Prediction: Classify SMS messages as spam or ham instantly through a user-friendly interface.
-
-Data-driven: The model is trained on a robust dataset of SMS messages.
-
-Simple & Effective: Uses Logistic Regression, a powerful and lightweight algorithm for classification tasks.
+## ✨ Features
+✔️ **Real-time Classification** – Type a message and get instant predictions  
+✔️ **Lightweight Model** – Uses Logistic Regression for speed & efficiency  
+✔️ **Deployed with Streamlit** – Simple web interface for end users  
+✔️ **Custom Preprocessing** – Includes data cleaning & text normalization  
 
 ---
-🚀 Tech Stack
+
 ## 🚀 Tech Stack
+<p align="center">
+
 
 ### 🔧 Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,6 +39,22 @@ Simple & Effective: Uses Logistic Regression, a powerful and lightweight algorit
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
+---
+
+## 📂 Repository Structure
+
+
+ ### 🔹 Page  - Interface  
+![Homepage](https://github.com/bhongyash111-coder/Spam_Classifier_logistic_Regression_YashBhong/blob/main/spam.png)
+✨ Features
+Real-time Prediction: Classify SMS messages as spam or ham instantly through a user-friendly interface.
+
+Data-driven: The model is trained on a robust dataset of SMS messages.
+
+Simple & Effective: Uses Logistic Regression, a powerful and lightweight algorithm for classification tasks.
 
 ---
 

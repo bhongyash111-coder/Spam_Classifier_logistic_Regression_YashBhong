@@ -5,13 +5,13 @@ This repository contains a machine learning project for classifying SMS messages
 ---
 
 📁 Repository Structure
-├── spamapp.py           # Streamlit web app
-├── detection.ipynb      # Data cleaning, EDA, and model training
-├── mail_data.csv        # Dataset used
-├── model.joblib         # Trained Logistic Regression model
-├── vect.joblib          # Trained TfidfVectorizer
-├── requirements.txt     # Required dependencies
-└── README.md            # Project documentation
+# Streamlit web app
+# Data cleaning, EDA, and model training
+# Dataset used
+# Trained Logistic Regression model
+# Trained TfidfVectorizer
+# Required dependencies     
+# Project documentation
 
 ---
 
